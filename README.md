@@ -1,4 +1,10 @@
 # financial-performance-comparison
+
+dependencies:
+* pandas
+* numpy
+* yfinance
+
 useful python function for financial performance comparison
 
 Generate time series data for some financial performance indicators.
